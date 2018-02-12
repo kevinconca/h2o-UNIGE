@@ -1,2 +1,2 @@
 # h2o-UNIGE
-For ML final presentation
+[Master course] ML final presentation
